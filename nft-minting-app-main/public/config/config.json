@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5eb9b1b59bf1bc74a60cfd63bc993289d024d21cd4056cb14b1b4dc8c66c17eb",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x5eb9b1b59bf1bc74a60cfd63bc993289d024d21cd4056cb14b1b4dc8c66c17eb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Lazy Kitty Cats",
+  "SYMBOL": "LKCNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/account",
+  "SHOW_BACKGROUND": true
+}
